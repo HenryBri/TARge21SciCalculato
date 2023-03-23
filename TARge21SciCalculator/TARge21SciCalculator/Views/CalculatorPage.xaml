@@ -262,7 +262,7 @@
             CommandParameter=")" />
 
 
-        <!--need tule bindida commandiga ScientificOperatorCommand-->
+        <!--ScientificOperatorCommand-->
         <Button
             Grid.Row="6"
             Grid.Column="3"
@@ -313,7 +313,7 @@
             Command="{Binding CalculateCommand}" />
 
 
-        <!--Numbers input-->
+        <!-- Numbers -->
         <Button
             Grid.Row="6"
             Grid.Column="0"
